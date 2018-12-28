@@ -212,7 +212,7 @@ main {
     background-size: contain;
 }
 .burger {
-    background-image: url('./images/burger.jpg');
+    background-image: url('https://github.com/ahadshaikh05/portfolio/blob/master/images/burger.JPG');
     background-size: contain;   
 }
 .work_project h4 {
