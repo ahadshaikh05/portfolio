@@ -32,7 +32,7 @@ body {
     height: 10%;
 }
 .closeicon {
-    background-image: url("./images/close.jpg");
+    background-image: url("images/close.jpg");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -82,7 +82,7 @@ header {
     margin-left: 1rem;
 }
 .navbar_icon {
-    background-image: url('./images/navicon2.png');
+    background-image: url('images/navicon2.png');
     background-size: contain;
     background-repeat: no-repeat;
     height: 60%;
@@ -136,7 +136,7 @@ main {
     position: relative;
 }
 .profilepic {
-    background: url('./images/profile.jpg');
+    background: url('images/profile.jpg');
     background-size: cover;
     border: none;
     position: absolute;
@@ -208,11 +208,11 @@ main {
     min-width: 18rem;
 }
 .hosting {
-    background-image: url('./images/webhosting.jpg');
+    background-image: url('images/webhosting.jpg');
     background-size: contain;
 }
 .burger {
-    background-image: url('https://github.com/ahadshaikh05/portfolio/blob/master/images/burger.JPG');
+    background-image: url('images/burger.jpg');
     background-size: contain;   
 }
 .work_project h4 {
