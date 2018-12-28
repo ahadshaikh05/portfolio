@@ -32,7 +32,7 @@ body {
     height: 10%;
 }
 .closeicon {
-    background-image: url("images/close.jpg");
+    background-image: url("images/close.JPG");
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -208,11 +208,11 @@ main {
     min-width: 18rem;
 }
 .hosting {
-    background-image: url('images/webhosting.jpg');
+    background-image: url('images/webhosting.JPG');
     background-size: contain;
 }
 .burger {
-    background-image: url('images/burger.jpg');
+    background-image: url('images/burger.JPG');
     background-size: contain;   
 }
 .work_project h4 {
@@ -266,7 +266,8 @@ footer {
         cursor: pointer;
     }
     .profilepic {
-        left: 2rem;
+        left: 3.5rem;
+        top: 1rem;
     }
 }
 @media (max-width: 36rem) {
