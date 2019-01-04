@@ -110,7 +110,8 @@ main {
     top: 10vh;
     min-height: 90vh;
     width: 100vw;
-    background:  linear-gradient(black, white );
+    background:  linear-gradient(to right bottom,rgba(0, 0, 0, 0.8), rgba(255, 255, 255, 0.8) ), 
+                url('images/background.jpg') center;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -260,6 +261,7 @@ footer {
 @media (max-width: 36rem) {
     .work_project {
         margin-bottom: 3rem;
+        margin-top: 3rem;
         border-bottom: 1px solid gray;
     }
 }
